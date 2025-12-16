@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "幸せのために生きているだけさ",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2025-12-16T07:09:22.519584Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "幸せのために生きているだけさ",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/01_幸せのために生きているだけさ_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幸せのために生きているだけさ",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_幸せのために生きているだけさ_SUPER_BEAVER.txt"
+    }
+  ]
+}
